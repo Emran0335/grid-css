@@ -62,5 +62,4 @@ Here we get two rows of 50px height. This time, we will use simpler way to defin
     grid-gap: 3px;
 }
 
-So, grid-template is the shorthand method of grid-template-rows and grid-template-columns. But we have to remember that repeat method of rows will come first and then forward(/) slash and then the repeat method of columns.
-The rule we have to remember that which one will come first rows or columns. It is like the letter of L. First use the height and then width. So we need to remember that repeat() of rows will come first and then repeat() of columns. In between them, we have to use forward slash(/). To sum up, start with the rows and then columns.
+So, grid-template is the shorthand method of grid-template-rows and grid-template-columns. But we have to remember that repeat method of rows will come first and then forward(/) slash and then the repeat method of columns. The rule we have to remember that which one will come first rows or columns. It is like the letter of L. First use the height and then width. So we need to remember that repeat() of rows will come first and then repeat() of columns. In between them, we have to use forward slash(/). To sum up, start with the rows and then columns.
