@@ -75,3 +75,6 @@ Now we have this weird experimental layout where all the corners are blank. Now 
         ;
 }
 So you have to use rectangles. As you understand this is a super simple way of experimenting with the layout. So, I'd recommend you to play around with these values here so that you make sure that you properly understand it. And once you've done that you have finished the first section of this course so congratulations.
+
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **

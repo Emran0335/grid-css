@@ -75,3 +75,5 @@ itself. Like that, so let's give it back its original space like that.
  //   align-self: end;
 }
 So, that's it.
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **

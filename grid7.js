@@ -21,3 +21,5 @@ And now as you can see, they're just how we want them to be. You can see that as
     grid-auto-rows: 100px;
 }
 Now all rows will be created implicitly and they'll always be 100 pixels tall.
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **

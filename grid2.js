@@ -15,3 +15,5 @@ As you can see that gives nice little gap between the items. Now let's say we do
     grid-template-rows: 50px 50px 200px;
     grid-gap: 3px;
 }
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **

@@ -72,3 +72,6 @@ Like that, and it still works. However you might be tempted to try and do the sa
     grid-area: main;
 }
 As you can see it breaks the entire layout. So be careful and make sure that you have properly boxed in an area before you start using grid area.
+
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **

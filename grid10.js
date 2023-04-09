@@ -79,3 +79,6 @@ Now we have as much space as possible in between the items along the row axis we
    // align-content: center;
 }
 There's also the space-around. This one is pretty similar to space-evenly though each of the items have a half size space on either end. That if you have two items besides each other that'll give a full-size space between them. Though here in between the first column line and the first item you only have a half space as this item forces a half space on this side. Though the grid line itself doesn't force the grid to create any space for it.These two both of the items first grid to add a half space in between them, resulting in full-size space. That was the basics of justifying and aligning the content.
+
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **

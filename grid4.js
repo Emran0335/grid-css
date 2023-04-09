@@ -74,3 +74,6 @@ Now, we have a blank cell here meaning that we can head into the menu class and 
     grid-row: 1 / 3;
 }
 As you can see took up the spots here in the top left corner. Because this is the first row line. This is the second and here is the third, the fourth, then is of course the the bottom line. Okay, so before we jump onto the next screencast, I would recommend you to for example, try to make the menu span all the way to the bottom or alternatively make a pair on the right hand side instead of on the left hand side. 
+
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **

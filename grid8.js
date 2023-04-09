@@ -61,3 +61,5 @@ The next item in the grid which could potentially fit in here would be not. This
     grid-auto-flow: dense;
 }
 And this works regardless of how wide the screen is. As you can see we have a super cool image grid now which looks really hard to create. Actually, however we've done it simply using these 20 lines of CSS and finally I want to mention that this dense feature here is an example of sorts order independence which is a huge win for CSS. It means that the grid can arrange the items regardless of how they're laid out in the mark-up. Here we simply use the mark-up for what it's supposed to use for markup, for content and we're using the CSS for what it's supposed to be used for styling and we're not limited whatever order we laid out the images initially. So source order independence gives you a lot of flexibility. 
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **

@@ -34,3 +34,6 @@ Wherever that'll only give us one column because auto-fit tries to fill up the g
     grid-gap: 5px;
 }
 And we'll set our columns to be minimum a hundred pixels maximum one fraction unit. Now you'll see that the columns will always fit the entire grid regardless of whether or not the container exactly adds up to 100 pixels. So what happens here is that the columns will always be at least a hundred pixels but if there's more available space it'll simply distribute that equally across all the columns. So, now there are more or less hundred pixels if we make the page a little bit wider. You can see that it stretches all of the columns. So, now the width of the container is something like 550 pixels or something. However when it reaches 600 pixels there, it uses the minimum size for the columns so that it can fit in six columns. So it prefers to use the minimum. However when it doesn't add up to exactly 500 or 600 pixels it uses one fraction unit instead. So now we also get a nice view on mobile like that and a nice view on a very wide screen.
+
+
+** We have to look into browser inspect and the source code of html elements to understant grid better **
